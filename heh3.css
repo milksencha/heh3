@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+h1 {
+  
+}
+
+h1 {
+  padding: 15px;
+  text-align: center;
+  /* background-color: #d2a5b0; */
+  color: #48494f;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 500%;
+  -webkit-transition-duration: 1s; /* Safari */
+ transition-duration: 0.5s; 
+}
+
+h1:hover {
+  color: #150B32;
+  }
+  
+h2 {
+  color: #48494f;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+body {
+  background-color: #E3E5F5;
+  text-align: center;
+}
+  
+.button {
+     background-color: #AAB3DE;
+     color: white;
+     padding: 75px 75px;
+     font-size: 25px;
+     font-family: 'Josefin Sans', sans-serif;
+     -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.button:hover {
+    background-color: #393D6C;
+    color: white;
+} 
+  
+</style>
+</head>
+</html>
